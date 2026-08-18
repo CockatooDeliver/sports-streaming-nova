@@ -44,4 +44,4 @@ Industry-leading **Sports Streaming Nova** content platform with curated collect
 
 ## A note on usage
 > [!NOTE]
-> For personal, lawful use only. Trademarks are the property of their owners. 
+> For personal, lawful use only. Trademarks are the property of their owners.  
